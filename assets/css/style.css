@@ -27,6 +27,9 @@ a:hover {
 h1, h2, h3, h4, h5, h6 {
   font-family: "Raleway", sans-serif;
 }
+.ios{
+  color: rgb(0, 255, 242);
+}
 
 /*--------------------------------------------------------------
 # Back to top button
@@ -134,7 +137,7 @@ h1, h2, h3, h4, h5, h6 {
 @media (max-width: 992px) {
   #header {
     width: 300px;
-    background: rgba(61, 61, 61, 0.432);
+    background: rgb(0, 0, 0);
     left: -300px;
   }
 }
@@ -292,7 +295,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero p {
-  color: #45505b;
+  color: #ffffff;
   margin: 15px 0 0 0;
   font-size: 26px;
   font-family: "Poppins", sans-serif;
